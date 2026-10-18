@@ -55,3 +55,59 @@
 - [2026-10-11-tennis-points-games-sets](2026-10-11-tennis-points-games-sets.md)
 
 - [2026攻略必备：加拿大PC预测网-飞飞28官网-核对一条数字结果，为什么不能只保存截图？](2026-10-11-tracing-digital-result-records.md)
+
+- [大桌与迷你百家乐：桌边人数变了，比较的是几组牌？](2026-10-12-baccarat-table-layout-and-dealing-roles.md)
+
+- [羽毛球场为什么画两条边线，发球后又该看哪条？](2026-10-12-badminton-court-boundaries.md)
+
+- [生日相同的机会，为什么要先问是在比较哪两个人？](2026-10-12-birthday-matches-and-comparison-scope.md)
+
+- [骰子停稳就算结果吗：有效投掷与无效投掷的区别](2026-10-12-craps-valid-rolls-and-reading-dice.md)
+
+- [疯狂八点怎样接牌：为什么同花色或同牌面都可以](2026-10-12-crazy-eights-matching-and-called-suits.md)
+
+- [尤克牌的J为什么会换花色：看懂左侍从的双重变化](2026-10-12-euchre-left-bower-effective-suit.md)
+
+- [地图上的黑暗区域，为什么会让电竞决策变难？](2026-10-12-fog-of-war-and-decision-information.md)
+
+- [换成宽屏后为何出现黑边，游戏画面怎样适应比例？](2026-10-12-game-aspect-ratio-and-layout.md)
+
+- [重新进入关卡后为何回到检查点，存档到底记住了什么？](2026-10-12-game-save-data-and-checkpoints.md)
+
+- [钓鱼牌的一次询问怎样进行：得到牌以后为什么还能继续问](2026-10-12-go-fish-requests-and-continuing-turns.md)
+
+- [希腊陶器为什么要先看形状再看故事：容器用途与图像怎样相遇](2026-10-12-greek-vases-form-and-story.md)
+
+- [摇杆推了一点却没反应，死区究竟过滤了什么？](2026-10-12-joystick-deadzone-and-input.md)
+
+- [电竞击杀数领先，为什么比赛还没有赢？](2026-10-12-kills-and-game-objectives.md)
+
+- [射击电竞开赛前，为什么双方要轮流排除地图？](2026-10-12-map-veto-and-side-selection.md)
+
+- [中世纪书页边缘为什么也有故事：怎样读图像、正文与装饰的关系](2026-10-12-medieval-margins-text-and-image.md)
+
+- [两件事不能同时发生，为什么不等于它们互不影响？](2026-10-12-mutually-exclusive-and-independent-events.md)
+
+- [根付为什么不只是小雕像：一件腰间配件怎样连接实用与趣味](2026-10-12-netsuke-function-and-miniature-stories.md)
+
+- [抽单牌为什么最后留下一张：从配对规则看懂未配成的Q](2026-10-12-old-maid-pairing-and-the-final-card.md)
+
+- [随机模拟为什么能重现同一串数字，种子究竟保存了什么？](2026-10-12-random-seeds-and-reproducible-simulation.md)
+
+- [看见红色后来自哪个盒子，为什么不能把条件概率倒过来？](2026-10-12-reversing-conditional-probability.md)
+
+- [罗马马赛克为什么要连着地面看：观看位置怎样改变图案的意义](2026-10-12-roman-mosaics-and-viewing-space.md)
+
+- [电竞战队有替补，为什么不一定能随时换人？](2026-10-12-rosters-substitutes-and-eligibility.md)
+
+- [轮盘何时停止接受变更：转动、截止与报号为何是三个时点？](2026-10-12-roulette-motion-cutoff-and-announcement.md)
+
+- [骰宝的三骰同数例外：为什么只记总点数还不够？](2026-10-12-sic-bo-triples-and-total-classification.md)
+
+- [四乘一百米接力为什么不能只把四个人的百米成绩相加？](2026-10-12-sprint-relay-baton-coordination.md)
+
+- [角色的腿在动却没前进，二维动画与位置怎样分工？](2026-10-12-sprite-animation-and-position.md)
+
+- [个人混合泳和混合泳接力，为什么不能用同一张顺序表？](2026-10-12-swimming-medley-stroke-order.md)
+
+- [排球为什么有人连续发球，有人得分后才轮到发球？](2026-10-12-volleyball-service-rotation.md)
