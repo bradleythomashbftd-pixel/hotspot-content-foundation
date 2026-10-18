@@ -111,3 +111,59 @@
 - [个人混合泳和混合泳接力，为什么不能用同一张顺序表？](2026-10-12-swimming-medley-stroke-order.md)
 
 - [排球为什么有人连续发球，有人得分后才轮到发球？](2026-10-12-volleyball-service-rotation.md)
+
+- [古代距骨为何不像方骰子：形状、落面与抛接怎样共同构成游戏？](2026-10-13-ancient-knucklebones-shape-and-play.md)
+
+- [棒球守备员为什么有时踩垒就能出局，有时必须触到跑者？](2026-10-13-baseball-force-tag-outs.md)
+
+- [都是二十一点，为什么起手Blackjack与三张牌不能直接算平手？](2026-10-13-blackjack-initial-hand-and-simple-twenty-one.md)
+
+- [摊牌检查与发牌不是同一步：开桌前的纸牌流程在确认什么？](2026-10-13-card-inspection-before-table-opening.md)
+
+- [桌上有五颗骰子，为什么美式骰子每次只读取两颗？](2026-10-13-craps-dice-inventory-and-active-pair.md)
+
+- [冰壶进入彩色圆圈后，为什么不是每颗都能得分？](2026-10-13-curling-house-scoring.md)
+
+- [游戏倒计时的十秒，为什么未必等于现实中的十秒？](2026-10-13-game-timers-and-time-scales.md)
+
+- [狮鹫为什么不总是同一种身体：从青铜附件到版画看幻想形象的变化](2026-10-13-griffin-forms-across-media.md)
+
+- [每个分组的比例都更高，合并后为什么反而更低？](2026-10-13-group-proportions-and-simpson-reversal.md)
+
+- [跳高都越过同一高度，为什么名次还可能不同？](2026-10-13-high-jump-countback.md)
+
+- [电竞精彩集锦，为什么不能替代完整比赛记录？](2026-10-13-highlights-pov-and-match-recordings.md)
+
+- [克朗代克接龙为什么一边往下叠、一边往上收](2026-10-13-klondike-tableau-and-foundation-building.md)
+
+- [能乐面具怎样帮助演员成为角色：从类别、佩戴与使用痕迹看舞台物件](2026-10-13-noh-masks-roles-and-use.md)
+
+- [射击电竞打成平局后，加时为什么不能只读成再打一回合？](2026-10-13-overtime-and-ending-conditions.md)
+
+- [近处树木移得快、远山移得慢，二维游戏怎样表现远近？](2026-10-13-parallax-backgrounds-and-camera-motion.md)
+
+- [连续模型里某个点的概率为零，为什么区间仍有机会？](2026-10-13-point-probability-and-continuous-intervals.md)
+
+- [左边传来的游戏声音，究竟在提示谁的位置？](2026-10-13-positional-game-audio-and-listeners.md)
+
+- [立直麻将凑齐十四张为什么还不够：完整牌形与和牌条件](2026-10-13-riichi-complete-shapes-and-winning-conditions.md)
+
+- [射击电竞的购买阶段，为什么要同时看钱与任务？](2026-10-13-round-economy-and-team-tasks.md)
+
+- [百分比相加不是百分之百，什么时候只是舍入造成的？](2026-10-13-rounded-percentages-and-total-discrepancies.md)
+
+- [圣甲虫为什么既像护符又像印章：从底面文字与转动结构看古埃及小物件](2026-10-13-scarabs-amulets-and-seals.md)
+
+- [电竞赛事的一号种子，为什么不等于已经排出冠军顺序？](2026-10-13-seeding-invitations-and-starting-positions.md)
+
+- [皮影戏为什么不只是会动的剪影：影偶、唱腔与表演怎样合成故事](2026-10-13-shadow-puppetry-performance-and-voice.md)
+
+- [拍侍从为什么出牌与拍牌不是同一个轮次](2026-10-13-slapjack-turns-and-event-triggered-actions.md)
+
+- [乒乓球发球已经抛高十六厘米，为什么仍可能不合法？](2026-10-13-table-tennis-service-toss.md)
+
+- [游戏地面像一块块拼成，瓦片地图怎样组织一个关卡？](2026-10-13-tilemaps-and-reusable-level-layouts.md)
+
+- [随机交换几次位置，为什么不一定得到等概率洗牌？](2026-10-13-uniform-shuffling-and-swap-paths.md)
+
+- [比大小牌遇到平局怎么办：桌面牌为什么暂时不归任何人](2026-10-13-war-ties-and-the-unclaimed-card-pool.md)
